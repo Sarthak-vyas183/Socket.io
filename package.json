@@ -1,0 +1,23 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "socket.io",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarthak-vyas183/Socket.io.git"
+  },
+  "author": "Sarthak Vyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarthak-vyas183/Socket.io/issues"
+  },
+  "homepage": "https://github.com/Sarthak-vyas183/Socket.io#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
